@@ -7,9 +7,9 @@ namespace DoesItBlend
     /// <summary>
     /// A class representing ice cubes
     /// </summary>
-    /// <summary>
-    public class IceCubes
+    public class IceCubes : IBlendable
     {
+        /// </summary>
         /// Blends the ice cubes
         /// </summary>
         /// <returns>The result of blending the ice cubes</returns>
